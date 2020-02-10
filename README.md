@@ -31,13 +31,13 @@ When assessing school summaries and performing schools, the score replacements d
 ### Average Reading Scores by Grade & School
 ![Average Reading Scores by Grade & School](IMG7_AvgReadingScores_byGrade&School.png)
 
-Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As showed in the images below, the summary tables display "NaN" for ninth grade at Thomas High School. 
+Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School. 
 
 
 ### School Spending Summary
 ![School Spending Summary](IMG3_SchoolSpendingSummaryDF.png)
 
-When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading schools. However, this data change did impact the spending ranges for passing percentages. According to the image below, there is a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.
+When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading schools. However, this data change did impact the spending ranges for passing percentages. According to the summary above, there is a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.
 
 
 ### School Size Summary
